@@ -5,7 +5,7 @@ import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 const socialLinks = [
   { icon: FaGithub, href: "https://github.com/ankitjha1307", label: "GitHub" },
   { icon: FaLinkedin, href: "https://linkedin.com/in/ankitjha1307", label: "LinkedIn" },
-  { icon: FaEnvelope, href: "mailto:mrankitjha1307@gmail.com", label: "Email" },
+  { icon: FaEnvelope, href: "mailto:mrankitjha007@gmail.com", label: "Email" },
 ];
 
 const experience = [
